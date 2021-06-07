@@ -1,9 +1,3 @@
-# Repository specific ignores
-deprecated/
-results/data
-
-
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -142,4 +136,6 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
-trash/
+
+# my ignores
+dont_upload/
