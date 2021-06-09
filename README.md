@@ -1,1 +1,20 @@
 # An Observation on Distribution of Prime Numbers
+
+This repository contains the code for this paper. For more information, you can read the [PDF file](https://raw.githubusercontent.com/dariush-bahrami/An-Observation-on-Distribution-of-Prime-Numbers/master/An%20Observation%20on%20Distribution%20of%20Prime%20Numbers.pdf) of the article. Using the notebooks in this repository, you can reproduce the figures and tables of the article. You can use the following links to run notebooks in Google colab.
+
+Figures:
+1. [Quantity of unique deltas at different orders versus quantity of prime numbers](https://colab.research.google.com/github/dariush-bahrami/An-Observation-on-Distribution-of-Prime-Numbers/blob/master/Jupyter%20Notebooks/Paper%20-%20Figure%201%20-%20Delta%20Quantity.ipynb)
+2. [Reduction of QREE by the increase of delta order](https://colab.research.google.com/github/dariush-bahrami/An-Observation-on-Distribution-of-Prime-Numbers/blob/master/Jupyter%20Notebooks/Paper%20-%20Figure%202%20-%20Reduction%20of%20QREE%20.ipynb)
+3. [Relative quantity of unique deltas versus quantity of prime numbers](https://colab.research.google.com/github/dariush-bahrami/An-Observation-on-Distribution-of-Prime-Numbers/blob/master/Jupyter%20Notebooks/Paper%20-%20Figure%203%20-%20%20Quantity%20of%20unique%20Delta%20relative%20to%20quantity%20of%20prime.ipynb)
+4. [Most frequent deltas of order 1](https://colab.research.google.com/github/dariush-bahrami/An-Observation-on-Distribution-of-Prime-Numbers/blob/master/Jupyter%20Notebooks/Paper%20-%20Figure%204%20-%20Most%20frequent%20Deltas%20of%20order%201.ipynb)
+5. [Coverage percentage of most frequent deltas](https://colab.research.google.com/github/dariush-bahrami/An-Observation-on-Distribution-of-Prime-Numbers/blob/master/Jupyter%20Notebooks/Paper%20-%20Figure%205%20-%20Percentage%20of%20most%20frequent%20deltas.ipynb)
+6. [Required deltas to cover more prime numbers](https://colab.research.google.com/github/dariush-bahrami/An-Observation-on-Distribution-of-Prime-Numbers/blob/master/Jupyter%20Notebooks/Paper%20-%20Figure%206%20-%20Required%20Deltas%20to%20Cover%20More%20Primes.ipynb)
+7. [Histogram of the first-order deltas](https://colab.research.google.com/github/dariush-bahrami/An-Observation-on-Distribution-of-Prime-Numbers/blob/master/Jupyter%20Notebooks/Paper%20-%20Figure%207%20-%20Delta%20Histogram.ipynb)
+8. [Histogram of the probability density of the first-order deltas](https://colab.research.google.com/github/dariush-bahrami/An-Observation-on-Distribution-of-Prime-Numbers/blob/master/Jupyter%20Notebooks/Paper%20-%20Figure%208%20-%20Delta%20Density%20Histogram.ipynb)
+
+Tables:
+1. [Examples of different orders of delta for first 9 prime numbers](https://colab.research.google.com/github/dariush-bahrami/An-Observation-on-Distribution-of-Prime-Numbers/blob/master/Jupyter%20Notebooks/Paper%20-%20Table%201%20-%20Examples%20of%20Delta.ipynb)
+2. [Quantity of unique delta at different orders for prime numbers below 1 billion](https://colab.research.google.com/github/dariush-bahrami/An-Observation-on-Distribution-of-Prime-Numbers/blob/master/Jupyter%20Notebooks/Paper%20-%20Table%202%20-%20Quantity%20of%20Delta%20at%20Different%20Orders.ipynb)
+3. [Decrease of QREE by increasing delta order](https://colab.research.google.com/github/dariush-bahrami/An-Observation-on-Distribution-of-Prime-Numbers/blob/master/Jupyter%20Notebooks/Paper%20-%20Table%203%20-%20Decrease%20of%20QREE.ipynb)
+4. [Quantity of unique delta relative to quantity of primes at different orders for prime numbers below 1 billion](https://colab.research.google.com/github/dariush-bahrami/An-Observation-on-Distribution-of-Prime-Numbers/blob/master/Jupyter%20Notebooks/Paper%20-%20Table%204%20-%20Quantity%20of%20Delta%20relative%20to%20quantity%20of%20primes.ipynb)
+5. [Total Share of most frequent deltas in primes](https://colab.research.google.com/github/dariush-bahrami/An-Observation-on-Distribution-of-Prime-Numbers/blob/master/Jupyter%20Notebooks/Paper%20-%20Table%205%20-%20Percentage%20of%20Most%20Frequent%20Deltas.ipynb)
