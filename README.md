@@ -1,6 +1,6 @@
 # An Observation on Distribution of Prime Numbers
 
-This repository contains the code for this paper. For more information, you can read the [PDF file](https://raw.githubusercontent.com/dariush-bahrami/An-Observation-on-Distribution-of-Prime-Numbers/master/An%20Observation%20on%20Distribution%20of%20Prime%20Numbers.pdf) of the article. Using the notebooks in this repository, you can reproduce the figures and tables of the article. You can use the following links to run notebooks in Google colab.
+This repository contains the code for [this](https://www.preprints.org/manuscript/202106.0416/v1) paper. For more information, you can read the [PDF file](https://raw.githubusercontent.com/dariush-bahrami/An-Observation-on-Distribution-of-Prime-Numbers/master/An%20Observation%20on%20Distribution%20of%20Prime%20Numbers.pdf) of the article. Using the notebooks in this repository, you can reproduce the figures and tables of the article. You can use the following links to run notebooks in Google colab.
 
 Figures:
 1. [Quantity of unique deltas at different orders versus quantity of prime numbers](https://colab.research.google.com/github/dariush-bahrami/An-Observation-on-Distribution-of-Prime-Numbers/blob/master/Jupyter%20Notebooks/Paper%20-%20Figure%201%20-%20Delta%20Quantity.ipynb)
